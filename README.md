@@ -135,7 +135,7 @@ Centralized database powering internal applications through a single source of t
 
 <p align="center">
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=kakashi896&theme=github-dark&hide_border=true"/>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=shivam-bhardwaj-28&theme=github-dark&hide_border=true"/>
 
 </p>
 

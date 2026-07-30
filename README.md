@@ -127,9 +127,9 @@ Centralized database powering internal applications through a single source of t
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kakashi896&show_icons=true&theme=github_dark&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shivam-bhardwaj-28&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakashi896&layout=compact&theme=github_dark&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-bhardwaj-28&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
